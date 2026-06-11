@@ -30,7 +30,7 @@
 - Website - [yugen.bot](https://yugen.bot/)
 - [Join the community](https://support.yugen.bot)
 - Author - [Jurien Hamaker](https://jurien.dev)
-- Ko-Fi - [ko-fi.com/jurienhamaker](https://ko-fi.com/jurienhamaker)
+- Ko-Fi - [kofi.yugen.bot](https://kofi.yugen.bot)
 
 ## License
 
